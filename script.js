@@ -129,6 +129,7 @@ canvas.onclick = event => {
     shot(event.layerX, event.layerY, 3, "yellow")
     shots.push({x: event.layerX, y: event.layerY})
     crosshair(event.layerX, event.layerY)
+    audio.currentTime = 0
     audio.play()
 }
 
