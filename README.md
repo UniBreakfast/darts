@@ -1,4 +1,5 @@
-# darts
+# [darts](https://github.com/UniBreakfast/darts)
+
 ## drawn on a canvas
 
 A darts game done in a canvas lesson with a student.
